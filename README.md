@@ -1,0 +1,3 @@
+# GII UI Config
+
+Gii Config is a configuration application for the whole Gii suite. It allows admin users to set up the configuration for all incoming and outgoing data feeds coming from and to IT/IOT subsystems within the deployment, including the configuration of MQTT, SNMP and LoRaWAN data flows. Also, it allows user management including the configuration of required user permissions, statistics objects and functions and also allows fine-tuning of all data structures being used across the system with the help of data schemas and objects configuration. This is a powerful yet user-friendly application for advanced users and IT administrators of the deployments. 
